@@ -3,5 +3,9 @@ file1 is writing some code
 
 dev1 is writing the code
 
+<<<<<<< HEAD
 de1 again making changes without pullin
 let's see what happens to dev1
+=======
+file remodified by dev2
+>>>>>>> 7a1ab00c6591d8bf14b63f6f1b02613ad609d280
